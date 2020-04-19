@@ -1,2 +1,2 @@
-# Rate-of-Road-Accident-Prediction
-ML based Project
+#MAchine Learning Course
+ML
